@@ -1,0 +1,20 @@
+<table class='table'>
+    <thead>
+        <tr>
+            <th scope='col'>ID</th>
+            <th scope='col'>Producto</th>
+            <th scope='col'>Precio</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        {{#each customers}}
+        <tr>
+            <th scope='row'>{{this.id}}</th>
+            <td>{{this.name}}</td>
+            <td>{{this.price}}</td>
+
+        </tr>
+        {{/each}}
+    </tbody>
+</table>

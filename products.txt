@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "playera",
+    "price": "225"
+  },
+  {
+    "id": 2,
+    "name": "playera",
+    "price": "250"
+  },
+  {
+    "id": 3,
+    "name": "camisa",
+    "price": "850"
+  },
+  {
+    "id": 4,
+    "name": "tenis",
+    "price": "1300"
+  },
+  {
+    "id": 5,
+    "name": "gorra",
+    "price": "350"
+  },
+  {
+    "id": 6,
+    "name": "zapatos",
+    "price": "2100"
+  }
+]
